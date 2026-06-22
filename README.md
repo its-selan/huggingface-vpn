@@ -10,7 +10,7 @@ VPN powered by Hugging Face
 1.2 В настройках Space (Settings -> Variables and secrets) добавьте секрет:
    - Name: UUID
    - Value: ваш персональный ключ.
-   - 
+
 1.3 Загрузите Dockerfile в репозиторий Space.
 
 1.4 Дождитесь завершения сборки.
