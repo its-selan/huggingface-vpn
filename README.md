@@ -6,10 +6,13 @@ VPN powered by Hugging Face
 Развертывание
 
 1.1 Создайте Space на Hugging Face с типом SDK: Docker (Blank).
+
 1.2 В настройках Space (Settings -> Variables and secrets) добавьте секрет:
    - Name: UUID
    - Value: ваш персональный ключ.
+   - 
 1.3 Загрузите Dockerfile в репозиторий Space.
+
 1.4 Дождитесь завершения сборки.
 
 Подключение
